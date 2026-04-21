@@ -33,7 +33,7 @@ A designer-led, stateless, high-fidelity Linux Desktop Environment (DE) and mobi
 * **Theming:** Utilizing **Matugen** as a "Theme Orchestrator" for cross-toolkit (GTK/Qt) harmony.
 * **Convergence:** Experimenting with **Hyprgrass** for touch gestures on OnePlus 6T (postmarketOS).
 * **Market Positioning vs. Incumbents:**
-    * **Desktop (The Monoliths):** GNOME, KDE Plasma, Cosmic, Cinnamon, XFCE, Deepin.
+    * **Desktop (The Monoliths):** GNOME, KDE Plasma, Cosmic, Cinnamon, XFCE, Deepin, Caelestia.
         * *Sauce Differentiator:* Bypassing monolithic "one-size-fits-all" bloat for a stateless, CSS/JSX-driven minimalist aesthetic.
     * **Mobile (The Reference Shells):** Phosh, Plasma Mobile.
         * *Sauce Differentiator:* Prioritizing design-to-production fidelity over legacy mobile-UI patterns.
